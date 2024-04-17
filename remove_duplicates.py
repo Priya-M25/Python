@@ -1,5 +1,6 @@
 '''Problem Statement:
-You are given a sorted integer array 'arr' of size 'n'. Your task is to remove the duplicates from the array such that each element appears only once. Return the new array containing only unique elements.
+You are given a sorted integer array 'arr' of size 'n'. Your task is to remove the duplicates from the array such
+that each element appears only once. Return the new array containing only unique elements.
 
 Output :-
 [1, 2, 3, 4, 5]
